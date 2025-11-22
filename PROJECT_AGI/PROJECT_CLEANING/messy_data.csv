@@ -1,0 +1,7 @@
+ID,Name,Price,Category
+1,Apple,100,Fruit
+2,Banana,50,Fruit
+3,Orange,,Fruit
+4,Apple,100,Fruit
+5,,200,Electronics
+6,Laptop,50000,Electronics
